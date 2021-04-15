@@ -6,6 +6,8 @@ A music for you when you examine to project
 
 https://www.youtube.com/watch?v=3bfkyXtuIXk
 
+Tutorial Link:https://www.youtube.com/watch?v=PJl4iabBEz0&list=PLqnslRFeH2UrDh7vUmJ60YrmWd64mTTKV&index=1
+
 Description
 
 My goal for this project learn how to working Q-Learning logic process
